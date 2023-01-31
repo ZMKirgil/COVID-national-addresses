@@ -3,4 +3,4 @@ by Z.M. Kirgil.
 
 The repository contains tokenized data and syntax to reproduce the results of the [paper].
 
-The data and syntax are published upon publication.
+The data and syntax are available upon publication.
